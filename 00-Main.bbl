@@ -1,0 +1,384 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{ALEXHOLMES:IBS}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e1fefc182ba379589883d454dcd0f87}{%
+           family={Alexander\bibnamedelima Holmes},
+           familyi={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Susan\bibnamedelima Dean},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           suffix={Barbara\bibnamedelima Illowsky},
+           suffixi={B\bibinitperiod\bibinitdelim I\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Openstax}%
+      }
+      \strng{namehash}{8e1fefc182ba379589883d454dcd0f87}
+      \strng{fullhash}{8e1fefc182ba379589883d454dcd0f87}
+      \strng{bibnamehash}{8e1fefc182ba379589883d454dcd0f87}
+      \strng{authorbibnamehash}{8e1fefc182ba379589883d454dcd0f87}
+      \strng{authornamehash}{8e1fefc182ba379589883d454dcd0f87}
+      \strng{authorfullhash}{8e1fefc182ba379589883d454dcd0f87}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Introductory Business Statistics.}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{Bishop:PRM}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9dfd0135a5e80aa6d81cea2c10fb7f73}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Christopher\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{fullhash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{bibnamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authorbibnamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authornamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authorfullhash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Pattern Recognition and Machine Learning.}
+      \field{year}{2006}
+      \true{nocite}
+    \endentry
+    \entry{Tilman:RBK}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c57f885caa3628600ae469757da9e686}{%
+           family={Davies},
+           familyi={D\bibinitperiod},
+           given={Tilman\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {No Starch Press, Inc.}%
+      }
+      \strng{namehash}{c57f885caa3628600ae469757da9e686}
+      \strng{fullhash}{c57f885caa3628600ae469757da9e686}
+      \strng{bibnamehash}{c57f885caa3628600ae469757da9e686}
+      \strng{authorbibnamehash}{c57f885caa3628600ae469757da9e686}
+      \strng{authornamehash}{c57f885caa3628600ae469757da9e686}
+      \strng{authorfullhash}{c57f885caa3628600ae469757da9e686}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{The Book of R: A First Course In Programing and Statistics.}
+      \field{year}{2016}
+    \endentry
+    \entry{Hogg:ITM}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e9b5bf16183d0bfbaf06c2700b133372}{%
+           family={Hogg},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima V.},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d270863e263b0bceef538d297aae591e}{%
+           family={McKean},
+           familyi={M\bibinitperiod},
+           given={Joseph\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=12b6e093ce9f51dda98799736f2ff494}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={Allen\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{72805d66e6fb7f4b77b42360fa24c65a}
+      \strng{fullhash}{5a6dc75def5f91cfcdb156e01ac73f23}
+      \strng{bibnamehash}{5a6dc75def5f91cfcdb156e01ac73f23}
+      \strng{authorbibnamehash}{5a6dc75def5f91cfcdb156e01ac73f23}
+      \strng{authornamehash}{72805d66e6fb7f4b77b42360fa24c65a}
+      \strng{authorfullhash}{5a6dc75def5f91cfcdb156e01ac73f23}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Introduction to Mathematical Statistics.}
+      \field{year}{2019}
+    \endentry
+    \entry{Illo-D:IStat}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6967126a2c2331da95cca878f6d92a5c}{%
+           family={Illowsky},
+           familyi={I\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e651ff8070b299118ab9ac9493d4153b}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {https://openstax.org/details/introductory-statistics}%
+      }
+      \list{publisher}{1}{%
+        {OpenStax}%
+      }
+      \strng{namehash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \strng{fullhash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \strng{bibnamehash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \strng{authorbibnamehash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \strng{authornamehash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \strng{authorfullhash}{6736cb6da662dc2f2d01521b7dcb6eab}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Introductory Statistics.}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{Wolfram_Alpha}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c682d963ee6e8dc573eb6c7e595d163c}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \strng{fullhash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \strng{bibnamehash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \strng{authorbibnamehash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \strng{authornamehash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \strng{authorfullhash}{c682d963ee6e8dc573eb6c7e595d163c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wolfram | Alpha}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.wolframalpha.com/input?i2d=true&i=Integrate%5BDivide%5B1%2C2%CF%80%E2%88%9A%5C%2840%29Power%5Bx%2C2%5D%2BPower%5By%2C2%5D%5C%2841%29%5D%2Cx%5D
+      \endverb
+      \verb{url}
+      \verb https://www.wolframalpha.com/input?i2d=true&i=Integrate%5BDivide%5B1%2C2%CF%80%E2%88%9A%5C%2840%29Power%5Bx%2C2%5D%2BPower%5By%2C2%5D%5C%2841%29%5D%2Cx%5D
+      \endverb
+    \endentry
+    \entry{Richy:AIM}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec3134401a4a6828925c991ac461c903}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c8db2b388ac5336e4850d3f6cbab94d}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Morris\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{10633d876fe785752562afa67e6444a8}
+      \strng{fullhash}{10633d876fe785752562afa67e6444a8}
+      \strng{bibnamehash}{10633d876fe785752562afa67e6444a8}
+      \strng{authorbibnamehash}{10633d876fe785752562afa67e6444a8}
+      \strng{authornamehash}{10633d876fe785752562afa67e6444a8}
+      \strng{authorfullhash}{10633d876fe785752562afa67e6444a8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{6th edition}
+      \field{title}{An Introduction to Mathetical Statistics and Its Applications.}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{Liu:PAB}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=92f7474e36f4f2b59a14e85c0e738e40}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60fb180beac4a30c4b959f85968280b7}{%
+           family={Abeyratne},
+           familyi={A\bibinitperiod},
+           given={Athula\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cornwall, Great Britain}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \strng{fullhash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \strng{bibnamehash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \strng{authorbibnamehash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \strng{authornamehash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \strng{authorfullhash}{c8fcd43be3690e13be399b1bb7fdb406}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Practical Applications of Bayesian Reliability.}
+      \field{year}{2019}
+      \true{nocite}
+    \endentry
+    \entry{Weiss:ISS}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40af1c5a537dee24f1bd7698b36305b5}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Neil\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{40af1c5a537dee24f1bd7698b36305b5}
+      \strng{fullhash}{40af1c5a537dee24f1bd7698b36305b5}
+      \strng{bibnamehash}{40af1c5a537dee24f1bd7698b36305b5}
+      \strng{authorbibnamehash}{40af1c5a537dee24f1bd7698b36305b5}
+      \strng{authornamehash}{40af1c5a537dee24f1bd7698b36305b5}
+      \strng{authorfullhash}{40af1c5a537dee24f1bd7698b36305b5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{10th Edition}
+      \field{series}{Global Edition}
+      \field{title}{Introductory Statistics.}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{Wiki:WKP}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {https://en.wikipedia.org/wiki/Poisson_distibution}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{None}
+      \field{title}{Poisson Distribution.}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

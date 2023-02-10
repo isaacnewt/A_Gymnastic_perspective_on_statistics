@@ -1,0 +1,59 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdftex 2022.1.25)  25 JAN 2022 22:32
+entering extended mode
+**C:/Users/AGU/Documents/dlmdsas01/aman/LaTeX-IUBH-Template-main/LaTeX-IUBH-Tem
+plate-main/biblio.bib
+
+(C:/Users/AGU/Documents/dlmdsas01/aman/LaTeX-IUBH-Template-main/LaTeX-IUBH-Temp
+late-main/biblio.bib
+! Misplaced alignment tab character &.
+l.15 ...HOR       = {Hogg, R. V., McKean, J. W., &
+                                                   Craig, A. T},
+? y
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Misplaced alignment tab character &.
+l.24   AUTHOR       = {Illowsky, B., &
+                                       Dean, S.,},
+? 
+! Misplaced alignment tab character &.
+l.33   AUTHOR       = {Liu, Y., &
+                                  Abeyratne, A. I.},
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.61 @Misc{Wolfram_
+                   Alpha,
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.66 
+     
+? 
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+[1{C:/Users/AGU/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]<C:/Users/AGU/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users
+/AGU/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:
+/Users/AGU/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/AGU/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy10.pfb>
+Output written on biblio.pdf (1 page, 50879 bytes).
+PDF statistics:
+ 22 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

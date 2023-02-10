@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is '00-Main.blg'
+[280] biber-MSWIN64:340> INFO - === 
+[385] Biber.pm:418> INFO - Reading '00-Main.bcf'
+[690] Biber.pm:969> INFO - Using all citekeys in bib section 0
+[731] Biber.pm:4383> INFO - Processing section 0
+[757] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[978] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1100] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[1270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1270] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1270] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1303] bbl.pm:654> INFO - Writing '00-Main.bbl' with encoding 'UTF-8'
+[1314] bbl.pm:757> INFO - Output to 00-Main.bbl
